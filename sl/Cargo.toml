@@ -1,0 +1,5 @@
+[package]
+
+name = "sl"
+version = "0.0.1"
+authors = ["Fredrik Berntsson <fredrik.kona@gmail.com>"]
