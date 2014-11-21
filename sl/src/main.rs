@@ -1,7 +1,8 @@
+mod test;
 
 fn main() {
 
-	let x = 5i;
+	let s = "hejsan";
 
-    println!("Hello, world! {}", x);
+	test::print_string(s);
 }
